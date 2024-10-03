@@ -1,9 +1,19 @@
 body {
-    background-color:darkolivegreen;
+    background-color:rgb(37, 58, 0);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: #ce951a;
+    color: #ffae00;
     text-align: center;
+}
+
+.projects {
+    display:flex; flex-wrap:wrap;  }
+.projects{
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background:rgb(0, 0, 0);
+    border-radius: 25%;
 }
