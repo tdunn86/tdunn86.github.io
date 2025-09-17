@@ -8,6 +8,14 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    margin-top: 75px;
+}
+
+h2.no-margin {
+    margin-top: 0px;
+}
+
 .projects {
     display: flex; 
     flex-wrap: wrap;  
